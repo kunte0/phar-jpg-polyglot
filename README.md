@@ -14,4 +14,4 @@ php -c php.ini phar_jpg_polyglot.php
 php test_phar_inject.php out.jpg
 ```
 
-Code inspired from [PHPGGC: PHP Generic Gadget Chains](https://github.com/ambionics/phpggc)
+Code ~stolen from~ inspired by [PHPGGC: PHP Generic Gadget Chains](https://github.com/ambionics/phpggc)
