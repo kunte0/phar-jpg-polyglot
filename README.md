@@ -1,4 +1,4 @@
-### phar-jpg-polyglot
+# phar-jpg-polyglot
 
 (Warning this is CTF CODE !!!1)
 
@@ -13,5 +13,9 @@ php -c php.ini phar_jpg_polyglot.php
 # test it by running 
 php test_phar_inject.php out.jpg
 ```
+
+### out.jpg Polyglot
+![out.jpg polyglot](https://github.com/kunte0/phar-jpg-polyglot/raw/master/out.jpg)
+
 
 Code ~stolen from~ inspired by [PHPGGC: PHP Generic Gadget Chains](https://github.com/ambionics/phpggc)
