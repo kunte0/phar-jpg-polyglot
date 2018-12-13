@@ -5,7 +5,7 @@
 Phar + JPG Polyglot generator and playground 
 
 ```sh
-# Edit the phar_jpg_polyglot.php and run it
+# Edit the phar_jpg_polyglot.php and run it to create the polyglot with phar inside
 php -c php.ini phar_jpg_polyglot.php
 ```
 
